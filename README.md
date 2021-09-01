@@ -7,9 +7,9 @@ My name is Ayrton and I am a computer science student at the University of Texas
 
 Some of my interests include:
 
-- Web development
-- Software development
-- Game development 
+- Web development 🌐
+- Software development ⚙️
+- Game development 🎮
 
 
 
