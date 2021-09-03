@@ -9,6 +9,7 @@ Some of my interests include:
 
 - Web development 🌐
 - Software development ⚙️
+- Data Analysis
 - Game development 🎮
 
 
