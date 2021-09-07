@@ -7,7 +7,7 @@ Some of my interests include:
 - Software development ⚙️
 - Data analysis 📈
 - Game development 🎮
-- 
+
 I'm unable to post some school projects due to copyright infringement.
 
 
