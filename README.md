@@ -8,6 +8,8 @@ Some of my interests include:
 - Data analysis 📈
 - Game development 🎮
 
+How to reach me: ayrton_bello@outlook.com 📧
+
 I'm unable to post some school projects due to copyright infringement.
 
 
